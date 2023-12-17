@@ -4,9 +4,8 @@
 #include <exception>
 #include <mutex>
 
-// #include <redis-cpp/stream.h>
-#include <stream.h>
-// #include <redis-cpp/execute.h>
+#include <redis-cpp/stream.h>
+#include <redis-cpp/execute.h>
 
 namespace database
 {
